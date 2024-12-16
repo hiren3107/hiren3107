@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Hiren Agravat</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 
-- 📫 How to reach me **agravathiren07@gmail.com**
+- 📫 How to reach me agravathiren07@gmail.com
 
-- 📄 <a href="https://drive.google.com/file/d/1EmAuoehK9zv5CP7GNE4M7tseK1DpLT1Y/view?usp=sharing" style = "text-decoration:none" target="blank">Resume</a>   
+- 📄 <a href="https://drive.google.com/file/d/1EmAuoehK9zv5CP7GNE4M7tseK1DpLT1Y/view?usp=sharing" style="text-decoration:none;" target="blank">Resume</a>   
 
 - ⚡ Fun fact **I think i love solw probelm**
 
