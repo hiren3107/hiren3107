@@ -3,7 +3,7 @@
 
 - 📫 How to reach me agravathiren07@gmail.com
 
-- 📄 <a href="https://drive.google.com/file/d/1c_m18z4ZHNs_ao5nzqGIxs_5nc0HL7Na/view?usp=sharing" style="color:black;" target="_blank">Resume</a>   
+- 📄 <a href="https://drive.google.com/file/d/1LICw-3FTdBDQz1v79dQ1AIGN2X4aD2GI/view?usp=sharing" style="color:black;" target="_blank">Resume</a>   
 
 - ⚡ Fun fact **I think i love solw probelm**
 
