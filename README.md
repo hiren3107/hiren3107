@@ -3,7 +3,9 @@
 
 - 📫 How to reach me agravathiren07@gmail.com
 
-- 📄 <a href="https://drive.google.com/file/d/1LICw-3FTdBDQz1v79dQ1AIGN2X4aD2GI/view?usp=sharing" style="color:black;" target="_blank">Resume</a>   
+- 📄 <a href="https://drive.google.com/file/d/1LICw-3FTdBDQz1v79dQ1AIGN2X4aD2GI/view?usp=sharing" style="color:black;" target="_blank">Resume</a>
+
+- 🌐 <a href="https://hiren3107-github-io.vercel.app" style="color:black;" target="_blank">Portfolio</a>
 
 - ⚡ Fun fact **I think i love solw probelm**
 
